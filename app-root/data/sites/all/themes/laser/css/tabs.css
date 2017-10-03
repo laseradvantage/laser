@@ -1,0 +1,44 @@
+div.tabs * {
+	background: #4E75AB;
+}
+
+div.tabs {
+	/*border-bottom: 1px solid #BBB;*/
+}
+
+ul.tabs.primary {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+ul.tabs.primary li {
+	display: block;
+	float: left;
+	border: 1px solid #BBB;
+	border-left: none;
+}
+
+ul.tabs.primary li a, ul.tabs.primary li a.active {
+	margin: 0;
+	padding: 0 10px;
+	/*background: #6598de;*/
+	background: #4E75AB;
+	text-decoration: none;
+	color: white;
+	border: none;
+}
+
+ul.tabs.primary li:first-child {
+	border-left: 1px solid #BBB;
+}
+
+ul.tabs.primary li a.active {
+	/*background: #6598de;*/
+	background: #4E75AB;
+}
+
+ul.tabs.primary li a:hover {
+    /*background: #6598de;*/
+    background: #4E75AB;
+}	

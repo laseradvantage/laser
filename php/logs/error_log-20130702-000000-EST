@@ -1,0 +1,4 @@
+[Mon Jul 01 23:12:15 2013] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Jul 01 23:12:16 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Jul 01 23:12:16 2013] [notice] Digest: done
+[Mon Jul 01 23:12:16 2013] [notice] Apache/2.2.15 (Unix) configured -- resuming normal operations

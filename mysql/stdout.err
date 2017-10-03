@@ -1,0 +1,615 @@
+140408 23:18:48 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140408 23:18:48  InnoDB: Initializing buffer pool, size = 32.0M
+140408 23:18:48  InnoDB: Completed initialization of buffer pool
+140408 23:18:49  InnoDB: Started; log sequence number 0 692122251
+140408 23:18:49 [Note] Event Scheduler: Loaded 0 events
+140408 23:18:49 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140419 08:04:30 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140419  8:04:30  InnoDB: Initializing buffer pool, size = 32.0M
+140419  8:04:30  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140419  8:04:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140419  8:04:30  InnoDB: Started; log sequence number 0 716880156
+140419  8:04:30 [Note] Event Scheduler: Loaded 0 events
+140419  8:04:30 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140421 23:24:04 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140421 23:24:04 [Note] Event Scheduler: Purging the queue. 0 events
+140421 23:24:04  InnoDB: Starting shutdown...
+140421 23:24:08  InnoDB: Shutdown completed; log sequence number 0 724675184
+140421 23:24:08 [Note] /usr/libexec/mysqld: Shutdown complete
+
+140421 23:24:08 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+140421 23:30:15 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140421 23:30:15  InnoDB: Initializing buffer pool, size = 32.0M
+140421 23:30:15  InnoDB: Completed initialization of buffer pool
+140421 23:30:15  InnoDB: Started; log sequence number 0 724675184
+140421 23:30:15 [Note] Event Scheduler: Loaded 0 events
+140421 23:30:15 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140423 16:18:34 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140423 16:18:34 [Note] Event Scheduler: Purging the queue. 0 events
+140423 16:18:34  InnoDB: Starting shutdown...
+140423 16:18:39  InnoDB: Shutdown completed; log sequence number 0 727388882
+140423 16:18:39 [Note] /usr/libexec/mysqld: Shutdown complete
+
+140423 16:18:39 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+140423 16:18:50 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140423 16:18:50  InnoDB: Initializing buffer pool, size = 32.0M
+140423 16:18:50  InnoDB: Completed initialization of buffer pool
+140423 16:18:50  InnoDB: Started; log sequence number 0 727388882
+140423 16:18:50 [Note] Event Scheduler: Loaded 0 events
+140423 16:18:50 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140508 20:19:31 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140508 20:19:31 [Note] Event Scheduler: Purging the queue. 0 events
+140508 20:19:31  InnoDB: Starting shutdown...
+140508 20:19:36  InnoDB: Shutdown completed; log sequence number 0 770361884
+140508 20:19:36 [Note] /usr/libexec/mysqld: Shutdown complete
+
+140508 20:19:36 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+140508 20:20:23 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140508 20:20:23  InnoDB: Initializing buffer pool, size = 32.0M
+140508 20:20:23  InnoDB: Completed initialization of buffer pool
+140508 20:20:23  InnoDB: Started; log sequence number 0 770361884
+140508 20:20:23 [Note] Event Scheduler: Loaded 0 events
+140508 20:20:23 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140602 21:48:13 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140602 21:48:13 [Note] Event Scheduler: Purging the queue. 0 events
+140602 21:48:14  InnoDB: Starting shutdown...
+140602 21:48:19  InnoDB: Shutdown completed; log sequence number 0 838953517
+140602 21:48:19 [Note] /usr/libexec/mysqld: Shutdown complete
+
+140602 21:48:19 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+140603 02:44:46 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140603  2:44:47  InnoDB: Initializing buffer pool, size = 32.0M
+140603  2:44:47  InnoDB: Completed initialization of buffer pool
+140603  2:44:50  InnoDB: Started; log sequence number 0 838953517
+140603  2:44:53 [Note] Event Scheduler: Loaded 0 events
+140603  2:44:53 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140605 06:44:37 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140605  6:44:37  InnoDB: Initializing buffer pool, size = 32.0M
+140605  6:44:37  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140605  6:44:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140605  6:44:37  InnoDB: Started; log sequence number 0 844910587
+140605  6:44:37 [Note] Event Scheduler: Loaded 0 events
+140605  6:44:37 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140606 16:00:17 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140606 16:00:18  InnoDB: Initializing buffer pool, size = 32.0M
+140606 16:00:18  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140606 16:00:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140606 16:00:33  InnoDB: Started; log sequence number 0 848543334
+140606 16:00:33 [Note] Event Scheduler: Loaded 0 events
+140606 16:00:33 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140615 11:06:25 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140615 11:06:25  InnoDB: Initializing buffer pool, size = 32.0M
+140615 11:06:25  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140615 11:06:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140615 11:06:26  InnoDB: Started; log sequence number 0 874569773
+140615 11:06:26 [Note] Event Scheduler: Loaded 0 events
+140615 11:06:26 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140623  5:20:00 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140623 05:28:44 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140623  5:28:45  InnoDB: Initializing buffer pool, size = 32.0M
+140623  5:28:45  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140623  5:28:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140623  5:28:46  InnoDB: Started; log sequence number 0 908351415
+140623  5:28:46 [Note] Event Scheduler: Loaded 0 events
+140623  5:28:46 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140625 16:47:35 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140625 16:47:35 [Note] Event Scheduler: Purging the queue. 0 events
+140625 16:47:35  InnoDB: Starting shutdown...
+140625 16:47:40  InnoDB: Shutdown completed; log sequence number 0 914173706
+140625 16:47:40 [Note] /usr/libexec/mysqld: Shutdown complete
+
+140625 16:47:40 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+140625 16:47:59 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140625 16:47:59  InnoDB: Initializing buffer pool, size = 32.0M
+140625 16:47:59  InnoDB: Completed initialization of buffer pool
+140625 16:47:59  InnoDB: Started; log sequence number 0 914173706
+140625 16:47:59 [Note] Event Scheduler: Loaded 0 events
+140625 16:47:59 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140702 12:04:17 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140702 12:04:17  InnoDB: Initializing buffer pool, size = 32.0M
+140702 12:04:17  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140702 12:04:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140702 12:04:18  InnoDB: Started; log sequence number 0 935683463
+140702 12:04:21 [Note] Event Scheduler: Loaded 0 events
+140702 12:04:21 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140714 21:55:49 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140714 21:55:49 [Note] Event Scheduler: Purging the queue. 0 events
+140714 21:55:50  InnoDB: Starting shutdown...
+140714 21:55:56  InnoDB: Shutdown completed; log sequence number 0 976393663
+140714 21:55:56 [Note] /usr/libexec/mysqld: Shutdown complete
+
+140714 21:55:56 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+140714 21:56:05 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140714 21:56:06  InnoDB: Initializing buffer pool, size = 32.0M
+140714 21:56:06  InnoDB: Completed initialization of buffer pool
+140714 21:56:06  InnoDB: Started; log sequence number 0 976393663
+140714 21:56:06 [Note] Event Scheduler: Loaded 0 events
+140714 21:56:06 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140731  5:30:50 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140731 05:42:40 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140731  5:42:41  InnoDB: Initializing buffer pool, size = 32.0M
+140731  5:42:41  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140731  5:42:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140731  5:42:42  InnoDB: Started; log sequence number 0 1030467006
+140731  5:42:43 [Note] Event Scheduler: Loaded 0 events
+140731  5:42:43 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140925  4:38:31 [Note] /usr/libexec/mysqld: Normal shutdown
+
+140925 04:52:07 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140925  4:52:07  InnoDB: Initializing buffer pool, size = 32.0M
+140925  4:52:07  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140925  4:52:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140925  4:52:09  InnoDB: Started; log sequence number 0 1238400066
+140925  4:52:09 [Note] Event Scheduler: Loaded 0 events
+140925  4:52:09 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+140929 16:43:43 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+140929 16:43:43  InnoDB: Initializing buffer pool, size = 32.0M
+140929 16:43:43  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140929 16:43:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140929 16:43:44  InnoDB: Started; log sequence number 0 1257747916
+140929 16:43:44 [Note] Event Scheduler: Loaded 0 events
+140929 16:43:44 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+141108 00:12:40 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+141108  0:12:40  InnoDB: Initializing buffer pool, size = 32.0M
+141108  0:12:40  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+141108  0:12:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+141108  0:12:42  InnoDB: Started; log sequence number 0 1415173498
+141108  0:12:42 [Note] Event Scheduler: Loaded 0 events
+141108  0:12:42 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+141218 01:14:43 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+141218  1:14:43  InnoDB: Initializing buffer pool, size = 32.0M
+141218  1:14:43  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+141218  1:14:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+141218  1:14:44  InnoDB: Started; log sequence number 0 1553454931
+141218  1:14:44 [Note] Event Scheduler: Loaded 0 events
+141218  1:14:44 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150127 17:36:13 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150127 17:50:41 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150127 17:50:42  InnoDB: Initializing buffer pool, size = 32.0M
+150127 17:50:42  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150127 17:50:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150127 17:50:45  InnoDB: Started; log sequence number 0 1677628964
+150127 17:50:45 [Note] Event Scheduler: Loaded 0 events
+150127 17:50:45 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150317 17:58:50 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150317 17:58:50 [Note] Event Scheduler: Purging the queue. 0 events
+150317 17:58:51  InnoDB: Starting shutdown...
+150317 17:58:58  InnoDB: Shutdown completed; log sequence number 0 1823853831
+150317 17:58:58 [Note] /usr/libexec/mysqld: Shutdown complete
+
+150317 17:59:59 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150317 17:59:59  InnoDB: Initializing buffer pool, size = 32.0M
+150317 17:59:59  InnoDB: Completed initialization of buffer pool
+150317 17:59:59  InnoDB: Started; log sequence number 0 1823853831
+150317 17:59:59 [Note] Event Scheduler: Loaded 0 events
+150317 17:59:59 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150611 21:26:04 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150611 21:26:04  InnoDB: Initializing buffer pool, size = 32.0M
+150611 21:26:04  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150611 21:26:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150611 21:26:05  InnoDB: Started; log sequence number 0 2090741331
+150611 21:26:05 [Note] Event Scheduler: Loaded 0 events
+150611 21:26:05 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150614 00:03:45 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150614  0:03:45  InnoDB: Initializing buffer pool, size = 32.0M
+150614  0:03:45  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150614  0:03:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150614  0:03:46  InnoDB: Started; log sequence number 0 2096941104
+150614  0:03:46 [Note] Event Scheduler: Loaded 0 events
+150614  0:03:46 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150617 19:45:57 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150617 19:45:58  InnoDB: Initializing buffer pool, size = 32.0M
+150617 19:45:58  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150617 19:45:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150617 19:45:58  InnoDB: Started; log sequence number 0 2106985091
+150617 19:45:58 [Note] Event Scheduler: Loaded 0 events
+150617 19:45:58 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150618 11:52:36 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150618 11:52:36 [Note] Event Scheduler: Purging the queue. 0 events
+150618 12:23:00 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150618 12:23:00  InnoDB: Initializing buffer pool, size = 32.0M
+150618 12:23:00  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150618 12:23:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150618 12:23:01  InnoDB: Started; log sequence number 0 2109334439
+150618 12:23:01 [Note] Event Scheduler: Loaded 0 events
+150618 12:23:01 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150619  9:46:03 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150619  9:46:03 [Note] Event Scheduler: Purging the queue. 0 events
+150619 10:02:24 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150619 10:02:24  InnoDB: Initializing buffer pool, size = 32.0M
+150619 10:02:24  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150619 10:02:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150619 10:02:25  InnoDB: Started; log sequence number 0 2112776375
+150619 10:02:25 [Note] Event Scheduler: Loaded 0 events
+150619 10:02:25 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150731 15:55:34 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150731 15:55:34  InnoDB: Initializing buffer pool, size = 32.0M
+150731 15:55:34  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150731 15:55:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150731 15:55:35  InnoDB: Started; log sequence number 0 2236262271
+150731 15:55:35 [Note] Event Scheduler: Loaded 0 events
+150731 15:55:35 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150806 11:06:11 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150806 11:27:27 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150806 11:27:28  InnoDB: Initializing buffer pool, size = 32.0M
+150806 11:27:28  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150806 11:27:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150806 11:27:28  InnoDB: Started; log sequence number 0 2253219876
+150806 11:27:28 [Note] Event Scheduler: Loaded 0 events
+150806 11:27:28 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150813  5:24:58 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150813  5:24:58 [Note] Event Scheduler: Purging the queue. 0 events
+150813 05:36:57 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150813  5:36:57  InnoDB: Initializing buffer pool, size = 32.0M
+150813  5:36:57  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150813  5:36:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150813  5:36:58  InnoDB: Started; log sequence number 0 2275108740
+150813  5:36:58 [Note] Event Scheduler: Loaded 0 events
+150813  5:36:58 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+150825 23:15:24 [Note] /usr/libexec/mysqld: Normal shutdown
+
+150825 23:15:24 [Note] Event Scheduler: Purging the queue. 0 events
+150825 23:15:26  InnoDB: Starting shutdown...
+150825 23:15:51  InnoDB: Shutdown completed; log sequence number 0 2327406870
+150825 23:15:51 [Note] /usr/libexec/mysqld: Shutdown complete
+
+150825 23:19:14 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+150825 23:19:14  InnoDB: Initializing buffer pool, size = 32.0M
+150825 23:19:14  InnoDB: Completed initialization of buffer pool
+150825 23:19:14  InnoDB: Started; log sequence number 0 2327406870
+150825 23:19:14 [Note] Event Scheduler: Loaded 0 events
+150825 23:19:14 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+151005 14:44:00 [Note] /usr/libexec/mysqld: Normal shutdown
+
+151005 14:44:00 [Note] Event Scheduler: Purging the queue. 0 events
+151005 14:44:00  InnoDB: Starting shutdown...
+151005 14:44:02  InnoDB: Shutdown completed; log sequence number 0 2444854229
+151005 14:44:02 [Note] /usr/libexec/mysqld: Shutdown complete
+
+151005 14:44:02 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+151005 14:44:09 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+151005 14:44:09  InnoDB: Initializing buffer pool, size = 32.0M
+151005 14:44:09  InnoDB: Completed initialization of buffer pool
+151005 14:44:09  InnoDB: Started; log sequence number 0 2444854229
+151005 14:44:09 [Note] Event Scheduler: Loaded 0 events
+151005 14:44:09 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+151217 22:36:55 [Note] /usr/libexec/mysqld: Normal shutdown
+
+151217 22:36:55 [Note] Event Scheduler: Purging the queue. 0 events
+151217 22:36:55  InnoDB: Starting shutdown...
+151217 22:36:57  InnoDB: Shutdown completed; log sequence number 0 2686330702
+151217 22:36:57 [Note] /usr/libexec/mysqld: Shutdown complete
+
+151217 22:36:57 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+151217 22:46:01 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+151217 22:46:01  InnoDB: Initializing buffer pool, size = 32.0M
+151217 22:46:01  InnoDB: Completed initialization of buffer pool
+151217 22:46:01  InnoDB: Started; log sequence number 0 2686330702
+151217 22:46:01 [Note] Event Scheduler: Loaded 0 events
+151217 22:46:01 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+160221 22:45:23 [Note] /usr/libexec/mysqld: Normal shutdown
+
+160221 22:45:23 [Note] Event Scheduler: Purging the queue. 0 events
+160221 22:45:24  InnoDB: Starting shutdown...
+160221 22:51:02 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+160221 22:51:02  InnoDB: Initializing buffer pool, size = 32.0M
+160221 22:51:02  InnoDB: Completed initialization of buffer pool
+160221 22:51:02  InnoDB: Started; log sequence number 0 2860586369
+160221 22:51:02 [Note] Event Scheduler: Loaded 0 events
+160221 22:51:02 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+160228 23:27:53 [Note] /usr/libexec/mysqld: Normal shutdown
+
+160228 23:27:53 [Note] Event Scheduler: Purging the queue. 0 events
+160228 23:27:53  InnoDB: Starting shutdown...
+160228 23:27:56  InnoDB: Shutdown completed; log sequence number 0 2881895227
+160228 23:27:56 [Note] /usr/libexec/mysqld: Shutdown complete
+
+160228 23:27:56 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+160228 23:39:11 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+160228 23:39:11  InnoDB: Initializing buffer pool, size = 32.0M
+160228 23:39:11  InnoDB: Completed initialization of buffer pool
+160228 23:39:11  InnoDB: Started; log sequence number 0 2881895227
+160228 23:39:11 [Note] Event Scheduler: Loaded 0 events
+160228 23:39:11 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+160627  0:59:30 [Note] /usr/libexec/mysqld: Normal shutdown
+
+160627  0:59:30 [Note] Event Scheduler: Purging the queue. 0 events
+160627  0:59:30  InnoDB: Starting shutdown...
+160627  0:59:35  InnoDB: Shutdown completed; log sequence number 0 3278278685
+160627  0:59:35 [Note] /usr/libexec/mysqld: Shutdown complete
+
+160627 00:59:35 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+160627 00:59:39 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+160627  0:59:39  InnoDB: Initializing buffer pool, size = 32.0M
+160627  0:59:39  InnoDB: Completed initialization of buffer pool
+160627  0:59:39  InnoDB: Started; log sequence number 0 3278278685
+160627  0:59:39 [Note] Event Scheduler: Loaded 0 events
+160627  0:59:39 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+161101  6:32:53 [Note] /usr/libexec/mysqld: Normal shutdown
+
+161101  6:32:53 [Note] Event Scheduler: Purging the queue. 0 events
+161101 06:39:21 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+161101  6:39:21  InnoDB: Initializing buffer pool, size = 32.0M
+161101  6:39:21  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161101  6:39:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161101  6:39:22  InnoDB: Started; log sequence number 0 3660146523
+161101  6:39:22 [Note] Event Scheduler: Loaded 0 events
+161101  6:39:22 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+170113 14:03:01 [Note] /usr/libexec/mysqld: Normal shutdown
+
+170113 14:03:01 [Note] Event Scheduler: Purging the queue. 0 events
+170113 14:03:02  InnoDB: Starting shutdown...
+170113 14:03:06  InnoDB: Shutdown completed; log sequence number 0 3917293629
+170113 14:03:06 [Note] /usr/libexec/mysqld: Shutdown complete
+
+170113 14:12:53 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+170113 14:12:53  InnoDB: Initializing buffer pool, size = 32.0M
+170113 14:12:53  InnoDB: Completed initialization of buffer pool
+170113 14:12:53  InnoDB: Started; log sequence number 0 3917293629
+170113 14:12:53 [Note] Event Scheduler: Loaded 0 events
+170113 14:12:53 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+170619 11:33:34 [Note] /usr/libexec/mysqld: Normal shutdown
+
+170619 11:33:34 [Note] Event Scheduler: Purging the queue. 0 events
+170619 11:44:20 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+170619 11:44:20  InnoDB: Initializing buffer pool, size = 32.0M
+170619 11:44:20  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+170619 11:44:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170619 11:44:20  InnoDB: Started; log sequence number 1 1220274461
+170619 11:44:20 [Note] Event Scheduler: Loaded 0 events
+170619 11:44:20 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+170621 13:59:36 [Note] /usr/libexec/mysqld: Normal shutdown
+
+170621 13:59:36 [Note] Event Scheduler: Purging the queue. 0 events
+170621 14:12:27 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+170621 14:12:27  InnoDB: Initializing buffer pool, size = 32.0M
+170621 14:12:27  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+170621 14:12:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170621 14:12:27  InnoDB: Started; log sequence number 1 1260423921
+170621 14:12:27 [Note] Event Scheduler: Loaded 0 events
+170621 14:12:27 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+170926 13:24:42 [Note] /usr/libexec/mysqld: Normal shutdown
+
+170926 13:24:42 [Note] Event Scheduler: Purging the queue. 0 events
+170926 13:24:44  InnoDB: Starting shutdown...
+170926 13:31:01 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+170926 13:31:01  InnoDB: Initializing buffer pool, size = 32.0M
+170926 13:31:01  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+170926 13:31:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170926 13:31:01  InnoDB: Started; log sequence number 1 2213387023
+170926 13:31:01 [Note] Event Scheduler: Loaded 0 events
+170926 13:31:01 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+171002 14:33:37 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+171002 14:33:37  InnoDB: Initializing buffer pool, size = 32.0M
+171002 14:33:37  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+171002 14:33:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+171002 14:33:37  InnoDB: Started; log sequence number 1 2297196103
+171002 14:33:37 [Note] Event Scheduler: Loaded 0 events
+171002 14:33:37 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+171003 17:57:42 [Note] /usr/libexec/mysqld: Normal shutdown
+
+171003 17:57:42 [Note] Event Scheduler: Purging the queue. 0 events
+171003 17:57:42  InnoDB: Starting shutdown...
+171003 17:57:44  InnoDB: Shutdown completed; log sequence number 1 2301457424
+171003 17:57:44 [Note] /usr/libexec/mysqld: Shutdown complete
+
+171003 17:57:44 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended
+171003 17:57:47 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+171003 17:57:47  InnoDB: Initializing buffer pool, size = 32.0M
+171003 17:57:47  InnoDB: Completed initialization of buffer pool
+171003 17:57:47  InnoDB: Started; log sequence number 1 2301457424
+171003 17:57:47 [Note] Event Scheduler: Loaded 0 events
+171003 17:57:47 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.73'  socket: '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//socket/mysql.sock'  port: 3306  Source distribution
+171003 17:57:50 [Note] /usr/libexec/mysqld: Normal shutdown
+
+171003 17:57:50 [Note] Event Scheduler: Purging the queue. 0 events
+171003 17:57:50  InnoDB: Starting shutdown...
+171003 17:57:52  InnoDB: Shutdown completed; log sequence number 1 2301457434
+171003 17:57:52 [Note] /usr/libexec/mysqld: Shutdown complete
+
+171003 17:57:52 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended

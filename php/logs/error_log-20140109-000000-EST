@@ -1,0 +1,3 @@
+[Thu Jan 09 16:24:53 2014] [error] [client 127.7.188.129] Attempt to serve directory: /var/lib/openshift/51a7f4734382ec31ad000615/app-root/runtime/repo/php/sites/default/files/js/
+[Thu Jan 09 16:25:30 2014] [error] [client 127.7.188.129] client denied by server configuration: /var/lib/openshift/51a7f4734382ec31ad000615/app-root/runtime/repo/php/sites/default/files/js/.specialChange
+[Thu Jan 09 16:29:58 2014] [error] [client 127.7.188.129] client denied by server configuration: /var/lib/openshift/51a7f4734382ec31ad000615/app-root/runtime/repo/php/.laser-laseradvantage.rhcloud.com

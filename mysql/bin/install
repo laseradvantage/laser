@@ -1,0 +1,54 @@
+#!/bin/bash -ue
+
+source $OPENSHIFT_CARTRIDGE_SDK_BASH
+source "${OPENSHIFT_MYSQL_DIR}/lib/mysql_context"
+
+case "$1" in
+  -v|--version)
+    version="$2"
+esac
+
+# We want to log to stdout, but MySQL will try appending `.err` to any
+# file provided to --log-error. Work around it by symlinking to /dev/stdout.
+#
+# See: http://bugs.mysql.com/bug.php?id=57690
+if [ ! -e $OPENSHIFT_MYSQL_DIR/stdout.err ]; then
+  ln -s /dev/stdout $OPENSHIFT_MYSQL_DIR/stdout.err
+fi
+
+# Generate username, password, and db name and create env variables
+echo 'Generating username and password'
+
+env_dir="${OPENSHIFT_MYSQL_DIR}/env"
+username=$(generate_username)
+password=$(generate_password)
+
+set_env_var 'OPENSHIFT_MYSQL_DB_USERNAME' "$username" $env_dir
+set_env_var 'OPENSHIFT_MYSQL_DB_PASSWORD' $password $env_dir
+set_env_var 'OPENSHIFT_MYSQL_DB_URL' "mysql://$username:$password@$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/" $env_dir
+set_env_var 'OPENSHIFT_MYSQL_VERSION' $version $env_dir
+
+echo 'Installing mysqld'
+
+mysql_data_dir="${OPENSHIFT_MYSQL_DIR}/data"
+
+# Must be invoked with absolute path to avoid a mysql bug involving my_print_defaults
+mysql_context "/usr/bin/mysql_install_db --datadir=${mysql_data_dir} --skip-name-resolve --force &>/tmp/mysql_install_db.log" || error 'Failed to create mysqldb', 119
+
+client_result ""
+client_result "MySQL ${version} database added.  Please make note of these credentials:"
+client_result ""
+client_result "       Root User: $username"
+client_result "   Root Password: $password"
+client_result "   Database Name: $OPENSHIFT_APP_NAME"
+client_result ""
+
+client_result 'Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/'
+client_result ""
+client_result "You can manage your new MySQL database by also embedding phpmyadmin."
+client_result "The phpmyadmin username and password will be the same as the MySQL credentials above."
+
+cart_props 'connection_url=mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/'
+cart_props "username=$username"
+cart_props "password=$password"
+cart_props "database_name=$OPENSHIFT_APP_NAME"

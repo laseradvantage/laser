@@ -1,0 +1,30 @@
+name = Laser Advantage
+description = This theme is designed for Laser Advantage LLC
+package = Core
+version = VERSION
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = css/bootstrap/css/bootstrap.css
+stylesheets[all][] = css/styles.css
+stylesheets[all][] = css/tabs.css
+stylesheets[all][] = css/footer.css
+scripts[] = javascript/add_icon.js
+
+; Information added by drupal.org packaging script on 2011-08-31
+version = "7.8"
+project = "drupal"
+datestamp = "1314817616"
+
+regions[content]            = Content
+regions[help]               = Help
+regions[sidebar_first]      = Sidebar first
+regions[sidebar_second]     = Sidebar second
+regions[header]             = Header
+regions[footer]             = Footer
+regions[bottom_footer]      = Bottom Footer
+regions[highlighted]        = Highlighted
+regions[secondary_nav]      = Secondary Navigation
+regions[slider]             = Slideshow
+regions[sub_nav]            = Sub Primary Navigation
+regions[bottom_page]        = Page Bottom

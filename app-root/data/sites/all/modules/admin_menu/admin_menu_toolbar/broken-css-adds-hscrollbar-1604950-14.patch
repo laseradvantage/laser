@@ -1,0 +1,31 @@
+diff --git a/admin_menu_toolbar/admin_menu_toolbar.css b/admin_menu_toolbar/admin_menu_toolbar.css
+index 56e448a..00b0985 100644
+--- a/admin_menu_toolbar/admin_menu_toolbar.css
++++ b/admin_menu_toolbar/admin_menu_toolbar.css
+@@ -28,14 +28,21 @@ body div#toolbar {
+  */
+ #admin-menu {
+   font: normal small "Lucida Grande", Verdana, sans-serif;
+-  margin: 0 -20px;
+-  padding: 0 20px;
+-  -moz-box-shadow: 0 3px 20px #000;
+-  -webkit-box-shadow: 0 3px 20px #000;
+-  box-shadow: 0 3px 20px #000;
++  margin: 0 0 0 -20px;
++  padding: 0 0 0 20px;
++  -moz-box-shadow: 10px 3px 20px #000;
++  -webkit-box-shadow: 10px 3px 20px #000;
++  box-shadow: 10px 3px 20px #000;
+   right: 0;
+   width: auto;
+ }
++/** 
++ * Fix for rtl
++ */
++html[dir=rtl] #admin-menu {
++  margin: 0 -20px 0 0;
++  padding: 0 20px 0 0;
++}
+ #admin-menu-wrapper {
+   font-size: .846em;
+   padding: 5px 10px 0;

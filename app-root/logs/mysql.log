@@ -1,0 +1,3 @@
+171003 17:57:47 mysqld_safe Logging to '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//stdout.err'.
+171003 17:57:47 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
+171003 17:57:52 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended

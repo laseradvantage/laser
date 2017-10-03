@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Laser Site feature.
+ */
+
+include_once('laser_site.features.inc');

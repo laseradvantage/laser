@@ -1,0 +1,277 @@
+[Tue Apr 08 23:19:09 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Tue Apr 08 23:19:09 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Apr 08 23:19:09 2014] [notice] Digest: done
+[Tue Apr 08 23:19:09 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Sat Apr 19 08:04:50 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Sat Apr 19 08:04:50 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 19 08:04:50 2014] [notice] Digest: done
+[Sat Apr 19 08:04:50 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Apr 21 23:24:12 2014] [notice] caught SIGWINCH, shutting down gracefully
+- - - [21/Apr/2014:23:24:12 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Mon Apr 21 23:30:35 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Apr 21 23:30:35 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 21 23:30:35 2014] [notice] Digest: done
+[Mon Apr 21 23:30:35 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Wed Apr 23 16:18:41 2014] [notice] caught SIGWINCH, shutting down gracefully
+- - - [23/Apr/2014:16:18:41 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Wed Apr 23 16:19:10 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Wed Apr 23 16:19:10 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 23 16:19:10 2014] [notice] Digest: done
+[Wed Apr 23 16:19:10 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu May 08 20:19:29 2014] [notice] caught SIGWINCH, shutting down gracefully
+- - - [08/May/2014:20:19:29 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Thu May 08 20:20:43 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu May 08 20:20:43 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu May 08 20:20:43 2014] [notice] Digest: done
+[Thu May 08 20:20:43 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Jun 02 21:48:22 2014] [notice] caught SIGWINCH, shutting down gracefully
+- - - [02/Jun/2014:21:48:22 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Tue Jun 03 02:45:17 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Tue Jun 03 02:45:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Jun 03 02:45:18 2014] [notice] Digest: done
+[Tue Jun 03 02:45:18 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Jun 05 06:44:57 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Jun 05 06:44:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 05 06:44:57 2014] [notice] Digest: done
+[Thu Jun 05 06:44:57 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Fri Jun 06 16:00:37 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Fri Jun 06 16:00:39 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 06 16:00:39 2014] [notice] Digest: done
+[Fri Jun 06 16:00:39 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Sun Jun 15 11:06:45 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Sun Jun 15 11:06:46 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Jun 15 11:06:46 2014] [notice] Digest: done
+[Sun Jun 15 11:06:46 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Jun 23 05:29:05 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Jun 23 05:29:06 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 23 05:29:06 2014] [notice] Digest: done
+[Mon Jun 23 05:29:06 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+143.115.159.54 - - [23/Jun/2014:11:39:50 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 3651 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:04 -0400] "GET /phpmyadmin/ HTTP/1.1" 200 34452 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.9.2.custom.css HTTP/1.1" 200 32278 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=0cd02fc082faa581ac0784d967c5691f&nocache=5555012555ltr HTTP/1.1" 200 88759 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/js/messages.php?lang=en&db=&server=0&token=0cd02fc082faa581ac0784d967c5691f HTTP/1.1" 200 16672 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/js/get_image.js.php?theme=pmahomme HTTP/1.1" 200 6263 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/themes/pmahomme/img/logo_left.png HTTP/1.1" 200 2327 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif HTTP/1.1" 200 1810 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:05 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=jquery/jquery-1.8.3.min.js&scripts[]=ajax.js&scripts[]=keyhandler.js&scripts[]=jquery/jquery-ui-1.9.2.custom.min.js&scripts[]=jquery/jquery.sprintf.js&scripts[]=jquery/jquery.cookie.js&scripts[]=jquery/jquery.mousewheel.js&scripts[]=jquery/jquery.event.drag-2.2.js&scripts[]=jquery/jquery-ui-timepicker-addon.js&scripts[]=jquery/jquery.ba-hashchange-1.3.js&scripts[]=jquery/jquery.debounce-1.0.5.js&scripts[]=jquery/jquery.menuResizer-1.0.js&scripts[]=cross_framing_protection.js&scripts[]=rte.js&scripts[]=functions.js&scripts[]=navigation.js&scripts[]=indexes.js&scripts[]=common.js&scripts[]=codemirror/lib/codemirror.js&scripts[]=codemirror/mode/mysql/mysql.js HTTP/1.1" 200 823667 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:06 -0400] "GET /phpmyadmin/themes/pmahomme/img/sprites.png HTTP/1.1" 200 61899 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:06 -0400] "GET /phpmyadmin/themes/pmahomme/img/left_nav_bg.png HTTP/1.1" 200 297 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:06 -0400] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 18902 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:06 -0400] "GET /phpmyadmin/version_check.php?&_nocache=1403538006114870349 HTTP/1.1" 200 39 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+- - - [23/Jun/2014:11:40:06 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:08 -0400] "GET /phpmyadmin/server_databases.php?db=&token=0cd02fc082faa581ac0784d967c5691f&ajax_request=true&ajax_page_request=true&menuHashes=59bd94ac&_nocache=140353800872654130 HTTP/1.1" 200 25322 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:09 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=server_databases.js HTTP/1.1" 200 4341 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - - [23/Jun/2014:11:40:09 -0400] "GET /phpmyadmin/themes/pmahomme/img/arrow_ltr.png HTTP/1.1" 200 139 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:16 -0400] "GET /phpmyadmin/db_structure.php?token=0cd02fc082faa581ac0784d967c5691f&db=laser&ajax_request=true&ajax_page_request=true&menuHashes=59bd94ac-0d819579&_nocache=1403538016594898804 HTTP/1.1" 200 483433 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:18 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=db_structure.js&scripts[]=tbl_change.js HTTP/1.1" 200 34937 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:21 -0400] "GET /phpmyadmin/db_operations.php?db=laser&token=0cd02fc082faa581ac0784d967c5691f&ajax_request=true&ajax_page_request=true&menuHashes=59bd94ac-0d819579-8826aa9c&_nocache=1403538021702486229 HTTP/1.1" 200 25429 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:22 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=db_operations.js HTTP/1.1" 200 4071 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:31 -0400] "GET /phpmyadmin/db_routines.php?db=laser&token=0cd02fc082faa581ac0784d967c5691f&ajax_request=true&ajax_page_request=true&menuHashes=59bd94ac-0d819579-8826aa9c-177981ca&_nocache=140353803159338549 HTTP/1.1" 200 6455 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:34 -0400] "GET /phpmyadmin/url.php?url=http%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.1%2Fen%2Fcreate-procedure.html&token=0cd02fc082faa581ac0784d967c5691f HTTP/1.1" 302 11766 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+143.115.159.54 - adminjBtevIM [23/Jun/2014:11:40:40 -0400] "GET /phpmyadmin/db_operations.php?db=laser&token=0cd02fc082faa581ac0784d967c5691f&ajax_request=true&ajax_page_request=true&menuHashes=59bd94ac-0d819579-8826aa9c-177981ca-280c3a95&_nocache=1403538040889580706 HTTP/1.1" 200 22348 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+- - - [25/Jun/2014:16:47:44 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [25/Jun/2014:16:47:44 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Wed Jun 25 16:47:44 2014] [notice] caught SIGWINCH, shutting down gracefully
+[Wed Jun 25 16:48:19 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Wed Jun 25 16:48:19 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 25 16:48:19 2014] [notice] Digest: done
+[Wed Jun 25 16:48:19 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Wed Jul 02 12:04:37 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Wed Jul 02 12:04:37 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Jul 02 12:04:37 2014] [notice] Digest: done
+[Wed Jul 02 12:04:37 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Jul 14 21:55:59 2014] [notice] caught SIGWINCH, shutting down gracefully
+- - - [14/Jul/2014:21:55:59 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Mon Jul 14 21:56:26 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Jul 14 21:56:26 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Jul 14 21:56:26 2014] [notice] Digest: done
+[Mon Jul 14 21:56:26 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Jul 31 05:43:00 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Jul 31 05:43:00 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Jul 31 05:43:00 2014] [notice] Digest: done
+[Thu Jul 31 05:43:00 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Sep 25 04:52:28 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Sep 25 04:52:28 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 25 04:52:28 2014] [notice] Digest: done
+[Thu Sep 25 04:52:28 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Sep 29 16:44:03 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Sep 29 16:44:03 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Sep 29 16:44:03 2014] [notice] Digest: done
+[Mon Sep 29 16:44:03 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Sat Nov 08 00:13:01 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Sat Nov 08 00:13:02 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 08 00:13:02 2014] [notice] Digest: done
+[Sat Nov 08 00:13:02 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Dec 18 01:15:05 2014] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Dec 18 01:15:07 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 18 01:15:07 2014] [notice] Digest: done
+[Thu Dec 18 01:15:07 2014] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Tue Jan 27 17:51:02 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Tue Jan 27 17:51:02 2015] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 27 17:51:02 2015] [notice] Digest: done
+[Tue Jan 27 17:51:02 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Tue Mar 17 17:58:47 2015] [notice] caught SIGWINCH, shutting down gracefully
+- - - [17/Mar/2015:17:58:47 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Tue Mar 17 18:00:20 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Tue Mar 17 18:00:20 2015] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 17 18:00:20 2015] [notice] Digest: done
+[Tue Mar 17 18:00:20 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Jun 11 21:26:23 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Jun 11 21:26:23 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 21:26:23 2015] [notice] Digest: done
+[Thu Jun 11 21:26:23 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Sun Jun 14 00:04:07 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Sun Jun 14 00:04:07 2015] [notice] Digest: generating secret for digest authentication ...
+[Sun Jun 14 00:04:07 2015] [notice] Digest: done
+[Sun Jun 14 00:04:07 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Wed Jun 17 19:46:17 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Wed Jun 17 19:46:18 2015] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 17 19:46:18 2015] [notice] Digest: done
+[Wed Jun 17 19:46:18 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Jun 18 12:23:21 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Jun 18 12:23:21 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 18 12:23:21 2015] [notice] Digest: done
+[Thu Jun 18 12:23:21 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Fri Jun 19 10:02:45 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Fri Jun 19 10:02:45 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 19 10:02:45 2015] [notice] Digest: done
+[Fri Jun 19 10:02:45 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Fri Jul 31 15:55:54 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Fri Jul 31 15:55:55 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Jul 31 15:55:55 2015] [notice] Digest: done
+[Fri Jul 31 15:55:55 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Aug 06 11:27:47 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Aug 06 11:27:47 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 06 11:27:47 2015] [notice] Digest: done
+[Thu Aug 06 11:27:47 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Aug 13 05:37:17 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[Thu Aug 13 05:37:18 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 13 05:37:18 2015] [notice] Digest: done
+[Thu Aug 13 05:37:18 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Tue Aug 25 23:15:02 2015] [notice] caught SIGWINCH, shutting down gracefully
+- - - [25/Aug/2015:23:15:03 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Tue Aug 25 23:19:33 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[Tue Aug 25 23:19:34 2015] [notice] Digest: generating secret for digest authentication ...
+[Tue Aug 25 23:19:34 2015] [notice] Digest: done
+[Tue Aug 25 23:19:34 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Oct 05 14:44:06 2015] [notice] caught SIGWINCH, shutting down gracefully
+- - - [05/Oct/2015:14:44:06 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Mon Oct 05 14:44:29 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Oct 05 14:44:29 2015] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 05 14:44:29 2015] [notice] Digest: done
+[Mon Oct 05 14:44:29 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Thu Dec 17 22:37:00 2015] [notice] caught SIGWINCH, shutting down gracefully
+- - - [17/Dec/2015:22:37:00 -0500] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Thu Dec 17 22:46:21 2015] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Thu Dec 17 22:46:21 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 17 22:46:21 2015] [notice] Digest: done
+[Thu Dec 17 22:46:21 2015] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Sun Feb 21 22:51:22 2016] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Sun Feb 21 22:51:22 2016] [notice] Digest: generating secret for digest authentication ...
+[Sun Feb 21 22:51:22 2016] [notice] Digest: done
+[Sun Feb 21 22:51:22 2016] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Sun Feb 28 23:27:58 2016] [notice] caught SIGWINCH, shutting down gracefully
+- - - [28/Feb/2016:23:27:58 -0500] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Sun Feb 28 23:39:31 2016] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Sun Feb 28 23:39:32 2016] [notice] Digest: generating secret for digest authentication ...
+[Sun Feb 28 23:39:32 2016] [notice] Digest: done
+[Sun Feb 28 23:39:32 2016] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+80.255.192.237 - - [29/Mar/2016:22:09:32 -0400] "GET /phpmyadmin/index.php HTTP/1.1" 401 4031 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8"
+[Mon Jun 27 00:59:37 2016] [notice] caught SIGWINCH, shutting down gracefully
+- - - [27/Jun/2016:00:59:37 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [27/Jun/2016:00:59:37 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+[Mon Jun 27 00:59:59 2016] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Jun 27 00:59:59 2016] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 27 00:59:59 2016] [notice] Digest: done
+[Mon Jun 27 00:59:59 2016] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Tue Nov 01 06:39:42 2016] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Tue Nov 01 06:39:42 2016] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 01 06:39:42 2016] [notice] Digest: done
+[Tue Nov 01 06:39:42 2016] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Fri Jan 13 14:13:13 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Fri Jan 13 14:13:13 2017] [notice] Digest: generating secret for digest authentication ...
+[Fri Jan 13 14:13:13 2017] [notice] Digest: done
+[Fri Jan 13 14:13:13 2017] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+110.85.4.102 - - [17/Feb/2017:02:47:52 -0500] "GET /phpmyadmin HTTP/1.1" 301 358 "http://laser-laseradvantage.rhcloud.com/phpmyadmin" "Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)"
+110.85.4.102 - - [17/Feb/2017:02:47:52 -0500] "GET /phpmyadmin/ HTTP/1.1" 401 4044 "http://laser-laseradvantage.rhcloud.com/phpmyadmin" "Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)"
+148.251.40.233 - - [20/Mar/2017:22:57:22 -0400] "GET /phpmyadmin HTTP/1.1" 301 358 "http://www.laser-advantage.com/phpmyadmin" "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"
+148.251.40.233 - - [20/Mar/2017:22:57:22 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4031 "http://www.laser-advantage.com/phpmyadmin" "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"
+148.251.40.233 - "" [20/Mar/2017:22:57:22 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4031 "http://www.laser-advantage.com/phpmyadmin" "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"
+[Mon Jun 19 11:44:40 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Jun 19 11:44:40 2017] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 19 11:44:40 2017] [notice] Digest: done
+[Mon Jun 19 11:44:40 2017] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Wed Jun 21 14:12:47 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Wed Jun 21 14:12:47 2017] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 21 14:12:47 2017] [notice] Digest: done
+[Wed Jun 21 14:12:47 2017] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Tue Sep 26 13:31:21 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Tue Sep 26 13:31:22 2017] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 26 13:31:22 2017] [notice] Digest: done
+[Tue Sep 26 13:31:22 2017] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+[Mon Oct 02 14:33:57 2017] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
+[Mon Oct 02 14:33:57 2017] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 02 14:33:57 2017] [notice] Digest: done
+[Mon Oct 02 14:33:57 2017] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations
+- - - [03/Oct/2017:15:12:36 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:12:37 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:12:38 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:12:39 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:12:40 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+76.118.45.105 - - [03/Oct/2017:15:12:32 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:15:12:29 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:15:12:28 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+- - - [03/Oct/2017:15:13:18 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+76.118.45.105 - - [03/Oct/2017:15:12:29 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:15:12:29 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4031 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:15:12:31 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:15:12:31 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+54.85.182.120 - - [03/Oct/2017:15:12:32 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4031 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+- - - [03/Oct/2017:15:13:19 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+50.206.58.30 - - [03/Oct/2017:15:12:32 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://www.google.com/url?q=https%3A%2F%2Flaser-laseradvantage.rhcloud.com%2Fphpmyadmin%2F&sa=D&sntz=1&usg=AFQjCNEVCveDYGMMixEs5FcO7v86b_IG9Q" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+- - - [03/Oct/2017:15:13:20 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:13:21 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:13:22 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:13:23 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:13:24 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:13:25 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+- - - [03/Oct/2017:15:13:26 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+76.118.45.105 - - [03/Oct/2017:16:09:13 -0400] "GET /phpmyadmin/ HTTP/1.1" 401 4035 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/ HTTP/1.1" 200 35031 "https://openshift.redhat.com/app/console/application/51a7f4734382ec31ad000615-laser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.9.2.custom.css HTTP/1.1" 200 32278 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=72244a81979588f7bdf8cbb911c6d909&nocache=5870219193ltr HTTP/1.1" 200 89029 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/js/whitelist.php?lang=en&db=&token=72244a81979588f7bdf8cbb911c6d909 HTTP/1.1" 200 2269 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/js/messages.php?lang=en&db=&token=72244a81979588f7bdf8cbb911c6d909 HTTP/1.1" 200 16784 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/js/get_image.js.php?theme=pmahomme HTTP/1.1" 200 6263 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/themes/pmahomme/img/logo_left.png HTTP/1.1" 200 2327 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif HTTP/1.1" 200 1810 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:52 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=jquery/jquery-1.8.3.min.js&scripts[]=ajax.js&scripts[]=keyhandler.js&scripts[]=jquery/jquery-ui-1.9.2.custom.min.js&scripts[]=jquery/jquery.sprintf.js&scripts[]=jquery/jquery.cookie.js&scripts[]=jquery/jquery.mousewheel.js&scripts[]=jquery/jquery.event.drag-2.2.js&scripts[]=jquery/jquery-ui-timepicker-addon.js&scripts[]=jquery/jquery.ba-hashchange-1.3.js&scripts[]=jquery/jquery.debounce-1.0.5.js&scripts[]=jquery/jquery.menuResizer-1.0.js&scripts[]=cross_framing_protection.js&scripts[]=rte.js&scripts[]=functions.js&scripts[]=navigation.js&scripts[]=indexes.js&scripts[]=common.js&scripts[]=codemirror/lib/codemirror.js&scripts[]=codemirror/mode/mysql/mysql.js HTTP/1.1" 200 834069 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:53 -0400] "GET /phpmyadmin/themes/pmahomme/img/left_nav_bg.png HTTP/1.1" 200 297 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/phpmyadmin.css.php?server=1&token=72244a81979588f7bdf8cbb911c6d909&nocache=5870219193ltr" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:53 -0400] "GET /phpmyadmin/themes/pmahomme/img/sprites.png HTTP/1.1" 200 61899 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/phpmyadmin.css.php?server=1&token=72244a81979588f7bdf8cbb911c6d909&nocache=5870219193ltr" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:09:53 -0400] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 18902 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:53 -0400] "GET /phpmyadmin/version_check.php?server=1&_nocache=1507061392646718457 HTTP/1.1" 200 24 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+- - - [03/Oct/2017:16:09:53 -0400] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.2.15 (Red Hat) (internal dummy connection)"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:58 -0400] "GET /phpmyadmin/server_sql.php?db=&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4&_nocache=1507061397868182745 HTTP/1.1" 200 6671 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:58 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=makegrid.js&scripts[]=sql.js HTTP/1.1" 200 93361 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:09:59 -0400] "GET /phpmyadmin/server_databases.php?db=&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de&_nocache=1507061399331858270 HTTP/1.1" 200 25237 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - - [03/Oct/2017:16:10:00 -0400] "GET /phpmyadmin/themes/pmahomme/img/arrow_ltr.png HTTP/1.1" 200 139 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:00 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=server_databases.js HTTP/1.1" 200 4576 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:03 -0400] "GET /phpmyadmin/db_structure.php?token=72244a81979588f7bdf8cbb911c6d909&db=laser&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816&_nocache=150706140257829240 HTTP/1.1" 200 483453 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:04 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=db_structure.js&scripts[]=tbl_change.js HTTP/1.1" 200 34935 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:04 -0400] "GET /phpmyadmin/navigation.php?ajax_request=1&token=72244a81979588f7bdf8cbb911c6d909&aPath=cm9vdA%3D%3D.bGFzZXI%3D&vPath=cm9vdA%3D%3D.bGFzZXI%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1507061403733633820 HTTP/1.1" 200 146128 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:07 -0400] "GET /phpmyadmin/db_operations.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587&_nocache=1507061406844806377 HTTP/1.1" 200 25433 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:07 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=db_operations.js HTTP/1.1" 200 4070 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:12 -0400] "GET /phpmyadmin/db_export.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587-919ea1f4&_nocache=1507061411799596569 HTTP/1.1" 200 53748 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:14 -0400] "GET /phpmyadmin/js/get_scripts.js.php?scripts[]=export.js HTTP/1.1" 200 9452 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:29 -0400] "GET /phpmyadmin/db_operations.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587-919ea1f4-1bdbd1c9&_nocache=1507061428503509445 HTTP/1.1" 200 22352 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:34 -0400] "GET /phpmyadmin/db_sql.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&db_query_force=1&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587-919ea1f4-1bdbd1c9&_nocache=1507061433937848108 HTTP/1.1" 200 7123 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:36 -0400] "GET /phpmyadmin/db_structure.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587-919ea1f4-1bdbd1c9-ae58ed1d&_nocache=1507061435408286597 HTTP/1.1" 200 480374 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:41 -0400] "GET /phpmyadmin/db_structure.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587-919ea1f4-1bdbd1c9-ae58ed1d&_nocache=1507061440589848551 HTTP/1.1" 200 480374 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:43 -0400] "GET /phpmyadmin/db_export.php?db=laser&token=72244a81979588f7bdf8cbb911c6d909&ajax_request=true&ajax_page_request=true&menuHashes=308eceb4-35b3c3de-f0995816-8e553587-919ea1f4-1bdbd1c9-ae58ed1d&_nocache=1507061442517938786 HTTP/1.1" 200 50667 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+76.118.45.105 - adminjBtevIM [03/Oct/2017:16:10:55 -0400] "POST /phpmyadmin/export.php HTTP/1.1" 200 16567879 "https://laser-laseradvantage.rhcloud.com/phpmyadmin/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+[Tue Oct 03 17:57:45 2017] [notice] caught SIGWINCH, shutting down gracefully
