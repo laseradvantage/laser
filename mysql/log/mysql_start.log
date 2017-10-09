@@ -1,3 +1,0 @@
-140311 19:53:33 mysqld_safe Logging to '/var/lib/openshift/51a7f4734382ec31ad000615/mysql//log/mysql_error.log'.
-140311 19:53:33 mysqld_safe Starting mysqld daemon with databases from /var/lib/openshift/51a7f4734382ec31ad000615/mysql/data/
-140408 23:18:33 mysqld_safe mysqld from pid file /var/lib/openshift/51a7f4734382ec31ad000615/mysql/pid/mysql.pid ended

@@ -1,5 +1,0 @@
-[Mon Aug 19 14:27:26 2013] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
-[Mon Aug 19 14:27:26 2013] [warn] module php5_module is already loaded, skipping
-[Mon Aug 19 14:27:27 2013] [notice] Digest: generating secret for digest authentication ...
-[Mon Aug 19 14:27:27 2013] [notice] Digest: done
-[Mon Aug 19 14:27:27 2013] [notice] Apache/2.2.15 (Unix) PHP/5.3.3 configured -- resuming normal operations

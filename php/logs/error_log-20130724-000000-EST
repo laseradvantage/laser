@@ -1,5 +1,0 @@
-[Wed Jul 24 06:22:09 2013] [notice] SELinux policy enabled; httpd running as context unconfined_u:system_r:openshift_t:s0:c3,c898
-[Wed Jul 24 06:22:11 2013] [notice] Digest: generating secret for digest authentication ...
-[Wed Jul 24 06:22:11 2013] [notice] Digest: done
-[Wed Jul 24 06:22:11 2013] [notice] Apache/2.2.15 (Unix) configured -- resuming normal operations
-[Wed Jul 24 15:02:36 2013] [error] [client 127.7.188.129] File does not exist: /var/lib/openshift/51a7f4734382ec31ad000615/app-root/runtime/repo/php/favicon.ico
